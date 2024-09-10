@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>gov.nasa.gsfc.cdf</groupId>
   <artifactId>cdfj</artifactId>
-  <version>3.8.2-SNAPSHOT</version>
+  <version>3.8.2</version>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
